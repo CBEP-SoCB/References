@@ -144,6 +144,10 @@ https://github.com/taiyun/corrplot.
 Max Kuhn, Simon Jackson and Jorge Cimentada (2020). corrr: Correlations in R. 
 R package version 0.4.3.https://CRAN.R-project.org/package=corrr.
 
+**extrafont**
+Winston Chang, (2014). extrafont: Tools for using fonts. R package version 
+0.17. https://CRAN.R-project.org/package=extrafont
+
 **fitdistrplus**
 Tools for evaluating suitability of distributions for representing data and 
 fitting distributions to data.
