@@ -41,7 +41,7 @@ Russell V. Lenth (2021). emmeans: Estimated Marginal Means, aka Least-Squares
 Means. R package version 1.5.4. https://CRAN.R-project.org/package=emmeans.
 
 
-**Ggplot2** The primary graphics engine used to generate graphics for State of
+**ggplot2** The primary graphics engine used to generate graphics for State of
 Casco Bay 2020. A part of the Tidyverse, but of sufficient importance to justify
 an independent citation.
 
@@ -170,6 +170,9 @@ rather than "user" coordinates.
 
 Pedro J. Aphalo (2021). ggpmisc: Miscellaneous Extensions to "ggplot2". R 
 package version 0.3.9. https://CRAN.R-project.org/package=ggpmisc.
+
+**ggthemes**
+Jeffrey B. Arnold (2019). ggthemes: Extra Themes, Scales and Geoms for 'ggplot2'. R package version 4.2.0. https://CRAN.R-project.org/package=ggthemes
 
 **Hmisc**
 Frank E Harrell Jr, with contributions from Charles Dupont and many others. 
